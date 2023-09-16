@@ -3,4 +3,4 @@ This project is about designing 3 algorithms (Greedy, Minimax, Expectimax) to pl
 To run this project, simply click on 2048.exe
 
 # Algorithm
-The Expectimax algorithm for this game is already detailed in (this Stackoverflow answer)[http://stackoverflow.com/a/22498940/1204143]
+The Expectimax algorithm for this game is already detailed in [this Stackoverflow answer](http://stackoverflow.com/a/22498940/1204143)
