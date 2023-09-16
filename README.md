@@ -1,4 +1,3 @@
-# AI-2048
 This project is about designing 3 algorithms (Greedy, Minimax, Expectimax) to play the game 2048. 
 To run this project, simply click on 2048.exe
 
